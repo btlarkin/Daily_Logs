@@ -21,3 +21,12 @@ ___
 **Link(s) to work**: [ZeroDay](https://github.com/btlarkin/Daily_Logs)
 
 ___
+
+### Day 2 : 20240428
+
+
+**Today's Progress**: Created a self taught curriculum for my zero day challenge; converted to github repo; had a slight issue with pdf linking but it was a quick fix
+
+**Thoughts**: feel kind of relieved to have some personal structure and goal; also this works as backup and tracker 
+
+**Link(s) to work**: [DIY_U](https://github.com/btlarkin/DIY_U)
