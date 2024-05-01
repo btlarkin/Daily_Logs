@@ -33,7 +33,7 @@ ___
 
 ___
 
-### Day 0 : 20240429
+### Day 3 : 20240429
 
 
 **Today's Progress**: Updated the content for the DIY U project
@@ -44,7 +44,7 @@ ___
 
 ___
 
-### Day 0 : 20240430
+### Day 4 : 20240430
 
 
 **Today's Progress**: Created a new crash course (ai agent dev) for the curriculum; removed a crash course (java spring boot)
