@@ -30,3 +30,27 @@ ___
 **Thoughts**: feel kind of relieved to have some personal structure and goal; also this works as backup and tracker 
 
 **Link(s) to work**: [DIY_U](https://github.com/btlarkin/DIY_U)
+
+___
+
+### Day 0 : 20240429
+
+
+**Today's Progress**: Updated the content for the DIY U project
+
+**Thoughts**: starting to get a little more at ease with git; just remember I purchased a course on that a while back code with mosh if memory serves.
+
+**Link(s) to work**:[DIY_U](https://github.com/btlarkin/DIY_U)
+
+___
+
+### Day 0 : 20240430
+
+
+**Today's Progress**: Created a new crash course (ai agent dev) for the curriculum; removed a crash course (java spring boot)
+
+**Thoughts**: need to focus more on my strengths and end goals
+
+**Link(s) to work**:[DIY_U](https://github.com/btlarkin/DIY_U)
+
+___
