@@ -54,3 +54,15 @@ ___
 **Link(s) to work**:[DIY_U](https://github.com/btlarkin/DIY_U)
 
 ___
+
+### Day 5 : 20240501
+
+
+**Today's Progress**: Modifified some of the course files; integrated dashboard capstone project; created it platform setup for development, networking, testing, and deployment
+
+**Thoughts**: finally ready to start my learning journey
+
+**Link(s) to work**: [DIY_U](https://github.com/btlarkin/DIY_U)
+
+___
+
