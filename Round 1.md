@@ -66,3 +66,24 @@ ___
 
 ___
 
+### Day 6 : 20240502
+
+
+**Today's Progress**: Started to set up ubuntu development virtual machine
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+___
+
+### Day 7 : 20240503
+
+
+**Today's Progress**: added tmux to environment;
+
+**Thoughts**: this should when developing on the go with just my phone
+
+**Link(s) to work**:
+
+___
